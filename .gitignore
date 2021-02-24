@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.vscode/
+settings.json
+launch.json
+test.py
+test2.py
+test3.py
